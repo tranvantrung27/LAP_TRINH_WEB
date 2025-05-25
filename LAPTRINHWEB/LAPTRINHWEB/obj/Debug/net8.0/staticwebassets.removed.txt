@@ -1,0 +1,3 @@
+D:\Học Phần Lập Trình Web\code\LAP_TRINH_WEB\LAPTRINHWEB\LAPTRINHWEB\wwwroot\images\books\c.jpg
+D:\Học Phần Lập Trình Web\code\LAP_TRINH_WEB\LAPTRINHWEB\LAPTRINHWEB\wwwroot\images\books\chottoi1vetuoitho.jpg
+D:\Học Phần Lập Trình Web\code\LAP_TRINH_WEB\LAPTRINHWEB\LAPTRINHWEB\wwwroot\images\books\default-book.jpg

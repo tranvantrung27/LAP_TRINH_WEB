@@ -219,18 +219,24 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            <i class="fas fa-book"></i> Chương trình đào tạo
+                        <a class="nav-link @(ViewContext.RouteData.Values["Controller"].ToString() == "Book" ? "active" : "")"
+                           asp-controller="Book" asp-action="Index">
+                            <i class="fas fa-book"></i> Thư viện
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">
-                            <i class="fas fa-newspaper"></i> Tin tức
+                        <a class="nav-link" asp-controller="Lecturer" asp-action="OutstandingLecturers">
+                            <i class="fas fa-newspaper"></i> Giảng viên ưu tú
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">
                             <i class="fas fa-phone-alt"></i> Liên hệ
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Account" asp-action="Login">
+                            <i class="fas fa-user-alt"></i> Đăng nhập
                         </a>
                     </li>
                 </ul>

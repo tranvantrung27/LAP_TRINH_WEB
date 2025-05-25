@@ -1,7 +1,28 @@
+﻿using Microsoft.EntityFrameworkCore;
+using LAPTRINHWEB.Data;
+using Microsoft.AspNetCore.Http.Features;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add DbContext - THÊM DÒNG NÀY
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Thêm Session service (PHẢI đặt trước builder.Build())
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+// Configure file upload size
+builder.Services.Configure<FormOptions>(options =>
+{
+    options.MultipartBodyLengthLimit = 10 * 1024 * 1024; // 10MB
+});
 
 var app = builder.Build();
 
@@ -15,18 +36,19 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
 
+// Sử dụng Session middleware (PHẢI đặt trước UseAuthorization())
+app.UseSession();
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-
 app.MapControllerRoute(
     name: "student",
     pattern: "Student/{action=Index}/{id?}",
     defaults: new { controller = "Student" });
+
 app.Run();
