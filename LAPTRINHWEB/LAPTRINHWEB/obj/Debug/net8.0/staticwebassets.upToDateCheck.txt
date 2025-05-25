@@ -1,6 +1,13 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\tuoitho.jpg
+wwwroot\images\books\29e0d870-0cc2-4ecf-9490-1368f016ffd8_tuoitho.jpg
+wwwroot\images\books\7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg
+wwwroot\images\books\a2cb9578-d3d0-4818-a5a7-ab954c0a10fb_ngu.jpg
+wwwroot\images\books\cc8fe8b8-79e9-4a06-854d-2d813eda985d_java.jpg
+wwwroot\images\books\ce28bc6d-9944-4e62-a047-5428e6bd72f1_sach ngon ngu c sharp.jpg
+wwwroot\images\books\efd79c90-4021-46e5-b11b-daa1105ccafd_tuoitho.jpg
+wwwroot\images\books\fddd4092-14a3-4068-95e5-020105ba10d8_sach ngon ngu c sharp.jpg
+wwwroot\images\books\tuoitho.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

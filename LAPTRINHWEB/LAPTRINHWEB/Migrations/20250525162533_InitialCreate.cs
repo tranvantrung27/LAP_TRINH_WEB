@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
@@ -23,6 +24,22 @@ namespace LAPTRINHWEB.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Categories", x => x.CategoryId);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Users",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Username = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PasswordHash = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Users", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -64,7 +81,7 @@ namespace LAPTRINHWEB.Migrations
                 columns: new[] { "Id", "Author", "CategoryId", "Description", "Image", "Price", "Title" },
                 values: new object[,]
                 {
-                    { 1, "Nguyễn Nhật Ánh", 1, "Một cuốn sách hay về tuổi thơ và những kỷ niệm đẹp", null, 50000m, "Cho tôi xin một vé đi tuổi thơ" },
+                    { 1, "Nguyễn Nhật Ánh", 1, "Một cuốn sách hay về tuổi thơ và những kỷ niệm đẹp", "books/tuoitho.jpg", 50000m, "Cho tôi xin một vé đi tuổi thơ" },
                     { 2, "Tô Lê Xuân Việt", 2, "Hướng dẫn lập trình C# từ cơ bản đến nâng cao", null, 120000m, "Lập trình C#" },
                     { 3, "Cay Horstmann", 2, "Sách lập trình Java cơ bản và nâng cao", null, 800000m, "Core Java: Fundamentals, Volume 1" },
                     { 4, "Hải Dỗ", 1, "Đàn ông tuổi 15 mơ ước thành đàn ông tuổi 20, đàn ông tuổi 20 mơ ước thành đàn ông tuổi 30, đàn ông tuổi 30 mơ ước được trở thành đàn ông tuổi 40 và đàn ông tuổi 40 lại mơ ước đặt chân lên cỗ máy thời gian để quay lại tuổi 30 với toàn bộ tài sản của mình! Vậy đây!", null, 61000m, "Cuộc Sống Rất Giống Cuộc Đời" }
@@ -81,6 +98,9 @@ namespace LAPTRINHWEB.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Books");
+
+            migrationBuilder.DropTable(
+                name: "Users");
 
             migrationBuilder.DropTable(
                 name: "Categories");

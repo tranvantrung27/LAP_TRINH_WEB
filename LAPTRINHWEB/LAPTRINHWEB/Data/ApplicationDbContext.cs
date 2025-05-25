@@ -8,7 +8,7 @@ namespace LAPTRINHWEB.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
-
+        public DbSet<User> Users { get; set; }
         public DbSet<Book> Books { get; set; }
         public DbSet<Category> Categories { get; set; }
 
@@ -61,7 +61,7 @@ namespace LAPTRINHWEB.Data
                         Author = "Nguyễn Nhật Ánh",
                         Price = 50000,
                         Description = "Một cuốn sách hay về tuổi thơ và những kỷ niệm đẹp",
-                        Image = "tuoitho.jpg", 
+                        Image = "books/tuoitho.jpg", 
                         CategoryId = 1
                     },
                 new Book

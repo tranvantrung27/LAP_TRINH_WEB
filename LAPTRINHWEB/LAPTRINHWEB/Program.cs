@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using LAPTRINHWEB.Data;
 using Microsoft.AspNetCore.Http.Features;
+using LAPTRINHWEB.Models;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +25,10 @@ builder.Services.Configure<FormOptions>(options =>
 {
     options.MultipartBodyLengthLimit = 10 * 1024 * 1024; // 10MB
 });
+builder.Services.AddDistributedMemoryCache();
+
+
+builder.Services.AddScoped<IPasswordHasher<User>, PasswordHasher<User>>();
 
 var app = builder.Build();
 

@@ -4,44 +4,32 @@
 }
 
 <div class="row justify-content-center">
-    <div class="col-md-5">
-        <div class="card shadow-sm">
-            <div class="card-header bg-success text-white text-center">
-                <h3><i class="fas fa-sign-in-alt"></i> Đăng nhập</h3>
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-header bg-primary text-white">
+                <h3 class="text-center mb-0"><i class="fas fa-sign-in-alt"></i> Đăng nhập</h3>
             </div>
             <div class="card-body">
-                @if (TempData["SuccessMessage"] != null)
-                {
-                    <div class="alert alert-success alert-dismissible fade show" role="alert">
-                        <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
-                        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-                    </div>
-                }
-
                 <form asp-action="Login" method="post">
-                    <div asp-validation-summary="All" class="alert alert-danger" style="display: none;"></div>
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
 
-                    <div class="mb-3">
-                        <label asp-for="Username" class="form-label">
-                            <i class="fas fa-user"></i> Tên người dùng
-                        </label>
-                        <input asp-for="Username" class="form-control" placeholder="Nhập tên người dùng" />
+                    <div class="form-group mb-3">
+                        <label asp-for="Username" class="form-label"></label>
+                        <input asp-for="Username" class="form-control" />
                         <span asp-validation-for="Username" class="text-danger"></span>
                     </div>
 
-                    <div class="mb-3">
-                        <label asp-for="Password" class="form-label">
-                            <i class="fas fa-lock"></i> Mật khẩu
-                        </label>
-                        <input asp-for="Password" class="form-control" type="password" placeholder="Nhập mật khẩu" />
+                    <div class="form-group mb-3">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" class="form-control" type="password" />
                         <span asp-validation-for="Password" class="text-danger"></span>
                     </div>
 
                     <div class="d-grid gap-2">
-                        <button type="submit" class="btn btn-success btn-lg">
-                            <i class=""></i> Đăng nhập
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-sign-in-alt"></i> Đăng nhập
                         </button>
-                        <a asp-action="Register" class="btn btn-outline-primary">
+                        <a asp-action="Register" class="btn btn-outline-secondary">
                             <i class="fas fa-user-plus"></i> Chưa có tài khoản? Đăng ký
                         </a>
                     </div>
@@ -53,13 +41,4 @@
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
-
-    <script>
-        // Hiển thị validation summary khi có lỗi
-        $(document).ready(function() {
-            if ($('.validation-summary-errors').length > 0 || $('.text-danger:contains("không đúng")').length > 0) {
-                $('.alert-danger').show();
-            }
-        });
-    </script>
 }

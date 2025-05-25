@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
 namespace LAPTRINHWEB.Models
 {
@@ -24,9 +25,11 @@ namespace LAPTRINHWEB.Models
         public string? Image { get; set; }
 
         // Foreign Key
+        [Required]
         public int CategoryId { get; set; }
 
-        // Navigation property
+        // Navigation property - thêm ValidateNever để bỏ qua validation
+        [ValidateNever]
         public virtual Category Category { get; set; } = null!;
     }
 }

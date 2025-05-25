@@ -1,59 +1,66 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using LAPTRINHWEB.Models;
+using LAPTRINHWEB.Data;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore; // Thêm dòng này để dùng FirstOrDefaultAsync, AnyAsync
 
 namespace LAPTRINHWEB.Controllers
 {
     public class AccountController : Controller
     {
-        // Danh sách lưu trữ tạm thời các user đã đăng ký (thay thế database)
-        private static List<User> _users = new List<User>();
+        private readonly ApplicationDbContext _context;
+        private readonly IPasswordHasher<User> _passwordHasher;
+
+        public AccountController(ApplicationDbContext context, IPasswordHasher<User> passwordHasher)
+        {
+            _context = context;
+            _passwordHasher = passwordHasher;
+        }
 
         // GET: Account/Register
         public IActionResult Register()
         {
             return View();
         }
-
-        // POST: Account/Register
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Register(User model)
+        public async Task<IActionResult> Register(RegisterModel model)
         {
             if (ModelState.IsValid)
             {
-                // Kiểm tra username đã tồn tại chưa
-                if (_users.Any(u => u.Username.Equals(model.Username, StringComparison.OrdinalIgnoreCase)))
+                try
                 {
-                    ModelState.AddModelError("Username", "Tên người dùng đã tồn tại");
-                    return View(model);
+                    if (await _context.Users.AnyAsync(u => u.Username == model.Username))
+                    {
+                        ModelState.AddModelError("Username", "Tên người dùng đã tồn tại");
+                        return View(model);
+                    }
+
+                    var user = new User
+                    {
+                        Username = model.Username,
+                        Email = model.Email,
+                        CreatedAt = DateTime.Now
+                    };
+
+                    user.PasswordHash = _passwordHasher.HashPassword(user, model.Password);
+
+                    _context.Users.Add(user);
+                    await _context.SaveChangesAsync();
+
+                    TempData["SuccessMessage"] = "Đăng ký thành công!";
+                    return RedirectToAction("Login");
                 }
-
-                // Kiểm tra email đã tồn tại chưa
-                if (_users.Any(u => u.Email.Equals(model.Email, StringComparison.OrdinalIgnoreCase)))
+                catch (Exception)
                 {
-                    ModelState.AddModelError("Email", "Email đã được sử dụng");
-                    return View(model);
+                    ModelState.AddModelError("", "Có lỗi xảy ra trong quá trình đăng ký.");
                 }
-
-                // Thêm user mới vào danh sách
-                var newUser = new User
-                {
-                    Username = model.Username,
-                    Email = model.Email,
-                    Password = model.Password, // Trong thực tế nên hash password
-                    CreatedAt = DateTime.Now
-                };
-
-                _users.Add(newUser);
-
-                // Lưu thông báo thành công vào TempData
-                TempData["SuccessMessage"] = "Đăng ký thành công! Bạn có thể đăng nhập ngay bây giờ.";
-
-                return RedirectToAction("Login");
             }
 
             return View(model);
         }
+
+
 
         // GET: Account/Login
         public IActionResult Login()
@@ -61,34 +68,41 @@ namespace LAPTRINHWEB.Controllers
             return View();
         }
 
-        // POST: Account/Login
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Login(LoginModel model)
+        public async Task<IActionResult> Login(LoginModel model)
         {
-            if (ModelState.IsValid)
+            try
             {
-                // Tìm user trong danh sách
-                var user = _users.FirstOrDefault(u =>
-                    u.Username.Equals(model.Username, StringComparison.OrdinalIgnoreCase) &&
-                    u.Password == model.Password);
+                if (ModelState.IsValid)
+                {
+                    var user = await _context.Users
+                        .FirstOrDefaultAsync(u => u.Username == model.Username);
 
-                if (user != null)
-                {
-                    // Đăng nhập thành công - lưu thông tin vào Session
-                    HttpContext.Session.SetString("Username", user.Username);
-                    HttpContext.Session.SetString("Email", user.Email);
-                    TempData["SuccessMessage"] = $"Chào mừng {user.Username}! Đăng nhập thành công.";
-                    return RedirectToAction("Index", "Home"); // ←chuyển hướng về trang chủ
-                }
-                else
-                {
-                    ModelState.AddModelError("", "Tên người dùng hoặc mật khẩu không đúng");
+                    if (user != null)
+                    {
+                        var result = _passwordHasher.VerifyHashedPassword(user, user.PasswordHash, model.Password);
+
+                        if (result == PasswordVerificationResult.Success)
+                        {
+                            HttpContext.Session.SetString("Username", user.Username);
+                            HttpContext.Session.SetString("Role", user.Username.ToLower() == "admin" ? "Admin" : "User");
+                            TempData["SuccessMessage"] = $"Chào mừng {user.Username}!";
+                            return RedirectToAction("Index", "Home");
+                        }
+                    }
+                    ModelState.AddModelError("", "Tên đăng nhập hoặc mật khẩu không đúng");
                 }
             }
-
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "Có lỗi xảy ra trong quá trình đăng nhập.");
+            }
             return View(model);
         }
+
+
+
 
         // GET: Account/Logout
         public IActionResult Logout()
@@ -98,10 +112,10 @@ namespace LAPTRINHWEB.Controllers
             return RedirectToAction("Index", "Home");
         }
 
-        // GET: Account/UserList (Để kiểm tra danh sách user đã đăng ký)
-        public IActionResult UserList()
+        // GET: Account/UserList
+        public async Task<IActionResult> UserList()
         {
-            return View(_users);
+            return View(await _context.Users.ToListAsync());
         }
 
         // Action để kiểm tra trạng thái đăng nhập

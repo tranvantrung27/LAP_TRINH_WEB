@@ -115,17 +115,9 @@ namespace LAPTRINHWEB.Controllers
                 return NotFound();
             }
 
-            // Load categories từ database
+            // Load categories và set selected value
             var categories = await _context.Categories.ToListAsync();
             ViewBag.CategoryId = new SelectList(categories, "CategoryId", "CategoryName", book.CategoryId);
-
-            // Debug
-            Console.WriteLine($"Categories loaded: {categories.Count}");
-            foreach (var cat in categories)
-            {
-                Console.WriteLine($"Category: {cat.CategoryId} - {cat.CategoryName}");
-            }
-            Console.WriteLine($"Book current CategoryId: {book.CategoryId}");
 
             return View(book);
         }

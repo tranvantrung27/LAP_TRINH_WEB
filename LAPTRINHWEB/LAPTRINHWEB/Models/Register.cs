@@ -1,12 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LAPTRINHWEB.Models
 {
-    public class User
+    public class RegisterModel
     {
-        [Key]
-        public int Id { get; set; }
         [Required(ErrorMessage = "Tên người dùng không được để trống")]
         [StringLength(50, MinimumLength = 3)]
         public string Username { get; set; }
@@ -15,31 +12,12 @@ namespace LAPTRINHWEB.Models
         [EmailAddress]
         public string Email { get; set; }
 
-        [Required]
-        public string PasswordHash { get; set; } = string.Empty; // Thêm giá trị mặc định
-        public string Role { get; set; } = "User";  
-        [NotMapped]
         [Required(ErrorMessage = "Mật khẩu không được để trống")]
         [StringLength(100, MinimumLength = 6, ErrorMessage = "Mật khẩu phải có ít nhất 6 ký tự")]
         public string Password { get; set; }
 
-        [NotMapped]
         [Compare("Password", ErrorMessage = "Mật khẩu xác nhận không khớp")]
         public string ConfirmPassword { get; set; }
-
-        public DateTime CreatedAt { get; set; } = DateTime.Now;
     }
 
-
-
-
-
-    public class LoginModel
-    {
-        [Required(ErrorMessage = "Tên người dùng không được để trống")]
-        public string Username { get; set; }
-
-        [Required(ErrorMessage = "Mật khẩu không được để trống")]
-        public string Password { get; set; }
-    }
 }

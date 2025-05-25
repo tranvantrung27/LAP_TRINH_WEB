@@ -3,84 +3,56 @@
   "WorkspaceRootPath": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\migrations\\20250525093035_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\migrations\\20250525093035_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\migrations\\20250525101617_updatebookimageseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\migrations\\20250525101617_updatebookimageseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525092920_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525092920_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\lecturer\\outstandinglecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\lecturer\\outstandinglecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525162533_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525162533_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525090336_RemoveOldImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525090336_RemoveOldImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,8 +63,60 @@
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525153741_UpdateBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525153741_UpdateBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525092920_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525092920_UpdateBookModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\lecturer\\outstandinglecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\lecturer\\outstandinglecturers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525090336_RemoveOldImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAPTRINHWEB\\Migrations\\20250525090336_RemoveOldImages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525084707_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\laptrinhweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\outstandinglecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\outstandinglecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -135,32 +151,8 @@
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|solutionrelative:laptrinhweb\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BAEDDD9-739E-46EB-BDA8-97D86B2057AF}|LAPTRINHWEB\\LAPTRINHWEB.csproj|d:\\h\u1ECDc ph\u1EA7n l\u1EADp tr\u00ECnh web\\code\\lap_trinh_web\\laptrinhweb\\laptrinhweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -206,85 +198,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\User.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\User.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:25:20.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\Student.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Student.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T08:44:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:25:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Index.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAE8AAAAjAAAAAAAAAA==",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Index.cshtml*",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Index.cshtml*",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-25T08:49:06.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:44:37.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250525093035_InitialCreate.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525093035_InitialCreate.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525093035_InitialCreate.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525093035_InitialCreate.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525093035_InitialCreate.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T10:08:56.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Details.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Details.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Details.cshtml*",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Details.cshtml*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T08:49:43.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250525101617_UpdateBookImageSeed.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525101617_UpdateBookImageSeed.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525101617_UpdateBookImageSeed.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525101617_UpdateBookImageSeed.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525101617_UpdateBookImageSeed.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T10:16:17.759Z",
+              "WhenOpened": "2025-05-22T07:27:03.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T10:09:03.523Z",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T07:26:27.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\Register.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Register.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Models\\Register.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:50:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:54:06.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:52:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwE4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:54:28.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\ApplicationDbContextFactory.cs",
@@ -297,110 +341,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\Book.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Book.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Models\\Book.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAArwBcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:37:34.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Create.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Create.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Create.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T08:52:31.926Z",
+              "WhenOpened": "2025-05-15T07:24:52.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20250525095757_AddBookImage.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T09:57:57.391Z",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Details.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:49:43.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "20250525162533_InitialCreate.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525162533_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525162533_InitialCreate.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525162533_InitialCreate.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525162533_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:25:33.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:44:37.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Program.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Program.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:19:17.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T07:28:57.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250525153741_UpdateBook.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525153741_UpdateBook.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525153741_UpdateBook.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525153741_UpdateBook.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525153741_UpdateBook.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:37:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Controllers\\BookController.cs",
               "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\BookController.cs",
               "RelativeToolTip": "LAPTRINHWEB\\Controllers\\BookController.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAA0wCQBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAAwBwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T08:48:37.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Admin.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Admin.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAiwFAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T08:54:28.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20250525095701_AddBookImage.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\Book.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Book.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Models\\Book.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T09:57:01.369Z",
+              "WhenOpened": "2025-05-25T08:37:34.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAawEEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:25:47.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Edit.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAiwGMAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T08:52:49.457Z"
+              "WhenOpened": "2025-05-25T08:52:31.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Category.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\Category.cs",
@@ -408,23 +479,62 @@
               "RelativeToolTip": "LAPTRINHWEB\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:36:42.506Z"
+              "WhenOpened": "2025-05-25T08:36:42.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAvwEQAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T07:24:56.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LAPTRINHWEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAqwMkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T06:56:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250525095757_AddBookImage.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525095757_AddBookImage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:44:43.194Z"
+              "WhenOpened": "2025-05-25T09:57:57.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
+              "Title": "20250525095701_AddBookImage.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
+              "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
+              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
+              "RelativeToolTip": "LAPTRINHWEB\\Migrations\\20250525095701_AddBookImage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:57:01.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "20250525092920_UpdateBookModel.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525092920_UpdateBookModel.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525092920_UpdateBookModel.cs",
@@ -436,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "OutstandingLecturers.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Lecturer\\OutstandingLecturers.cshtml",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Lecturer\\OutstandingLecturers.cshtml",
@@ -448,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "20250525090336_RemoveOldImages.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525090336_RemoveOldImages.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525090336_RemoveOldImages.cs",
@@ -460,43 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Book\\Delete.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-25T08:54:06.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAlwOEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T07:24:52.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Program.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Program.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Program.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T07:19:17.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "20250525084707_InitialCreate.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Migrations\\20250525084707_InitialCreate.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Migrations\\20250525084707_InitialCreate.cs",
@@ -508,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "LAPTRINHWEB.csproj",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\LAPTRINHWEB.csproj",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\LAPTRINHWEB.csproj",
@@ -520,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\appsettings.json",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\appsettings.json",
@@ -532,19 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T08:43:03.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "OutstandingLecturer.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\OutstandingLecturer.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\OutstandingLecturer.cs",
@@ -556,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Student\\Index.cshtml",
@@ -568,19 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\Student.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\Student.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Models\\Student.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T08:44:03.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "ShowKQ.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Student\\ShowKQ.cshtml",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Student\\ShowKQ.cshtml",
@@ -592,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "List.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Student\\List.cshtml",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Student\\List.cshtml",
@@ -604,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Controllers\\HomeController.cs",
@@ -613,54 +663,6 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T06:54:28.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "UserList.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Account\\UserList.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAIBZwFAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T07:28:57.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Account\\Register.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBZwEgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T07:26:27.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\User.cs",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Models\\User.cs",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Models\\User.cs",
-              "RelativeToolTip": "LAPTRINHWEB\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:25:20.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Account\\Login.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwCoAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T07:27:03.671Z"
             },
             {
               "$type": "Document",
@@ -677,18 +679,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHsBAAAAAAAAAAAqwJcBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-15T06:56:47.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Home\\Privacy.cshtml",
@@ -697,18 +687,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-15T06:56:51.894Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "D:\\H\u1ECDc Ph\u1EA7n L\u1EADp Tr\u00ECnh Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "LAPTRINHWEB\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-15T07:24:56.768Z"
             }
           ]
         }
