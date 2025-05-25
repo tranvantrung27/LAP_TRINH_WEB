@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fc/bETb4jplzQbADlXMpE2g7Tx5o+t1EiVGfi9uOXNU=",
+  "Hash": "RwiFQcPld9UWRDbBtRNYJYVzM8qdT9UnLCLbgM9QWbI=",
   "Source": "LAPTRINHWEB",
   "BasePath": "_content/LAPTRINHWEB",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\tuoitho.jpg",
+      "SourceId": "LAPTRINHWEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\",
+      "BasePath": "_content/LAPTRINHWEB",
+      "RelativePath": "images/tuoitho#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k8smkyun6u",
+      "Integrity": "jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\tuoitho.jpg"
     },
     {
       "Identity": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\js\\site.js",
@@ -1481,6 +1502,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/tuoitho.jpg",
+      "AssetFile": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\tuoitho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 09:42:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4="
+        }
+      ]
+    },
+    {
+      "Route": "images/tuoitho.k8smkyun6u.jpg",
+      "AssetFile": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\tuoitho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 09:42:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k8smkyun6u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/tuoitho.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4="
         }
       ]
     },

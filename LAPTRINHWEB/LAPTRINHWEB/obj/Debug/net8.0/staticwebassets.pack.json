@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\tuoitho.jpg",
+      "PackagePath": "staticwebassets\\images\\tuoitho.jpg"
+    },
+    {
       "Id": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

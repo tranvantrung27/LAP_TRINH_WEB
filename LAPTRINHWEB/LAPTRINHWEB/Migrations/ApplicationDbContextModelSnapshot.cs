@@ -65,6 +65,7 @@ namespace LAPTRINHWEB.Migrations
                             Author = "Nguyễn Nhật Ánh",
                             CategoryId = 1,
                             Description = "Một cuốn sách hay về tuổi thơ và những kỷ niệm đẹp",
+                            Image = "tuoitho.jpg",
                             Price = 50000m,
                             Title = "Cho tôi xin một vé đi tuổi thơ"
                         },

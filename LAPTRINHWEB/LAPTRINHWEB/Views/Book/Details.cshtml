@@ -8,11 +8,21 @@
     <div class="row">
         <div class="col-md-4">
             <div class="book-image-large">
-                <img src="~/images/books/@(Model.Image ?? "default-book.jpg")"
-                     alt="@Model.Title"
-                     class="img-fluid"
-                     onerror="this.src='/images/books/default-book.jpg'">
+                @if (!string.IsNullOrEmpty(Model.Image))
+                {
+                    <img src="~/images/@Model.Image"
+                         alt="@Model.Title"
+                         class="img-fluid" />
+                }
+                else
+                {
+                    <div class="no-image">
+                        <i class="fas fa-book fa-3x"></i>
+                        <p>Chưa có ảnh</p>
+                    </div>
+                }
             </div>
+
         </div>
         <div class="col-md-8">
             <div class="book-info-detailed">
@@ -77,6 +87,22 @@
         padding: 30px;
         box-shadow: 0 4px 20px rgba(0,0,0,0.1);
     }
+
+    .no-image {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 200px;
+        background: #f8f9fa;
+        color: #6c757d;
+        border: 2px dashed #dee2e6;
+        border-radius: 8px;
+    }
+
+        .no-image i {
+            margin-bottom: 10px;
+        }
 
     .book-image-large {
         text-align: center;

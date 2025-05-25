@@ -54,16 +54,16 @@ namespace LAPTRINHWEB.Data
 
             // Seed Books
             modelBuilder.Entity<Book>().HasData(
-                new Book
-                {
-                    Id = 1,
-                    Title = "Cho tôi xin một vé đi tuổi thơ",
-                    Author = "Nguyễn Nhật Ánh",
-                    Price = 50000,
-                    Description = "Một cuốn sách hay về tuổi thơ và những kỷ niệm đẹp",
-                    Image = null, // Không có ảnh, sẽ upload sau
-                    CategoryId = 1
-                },
+                    new Book
+                    {
+                        Id = 1,
+                        Title = "Cho tôi xin một vé đi tuổi thơ",
+                        Author = "Nguyễn Nhật Ánh",
+                        Price = 50000,
+                        Description = "Một cuốn sách hay về tuổi thơ và những kỷ niệm đẹp",
+                        Image = "tuoitho.jpg", 
+                        CategoryId = 1
+                    },
                 new Book
                 {
                     Id = 2,

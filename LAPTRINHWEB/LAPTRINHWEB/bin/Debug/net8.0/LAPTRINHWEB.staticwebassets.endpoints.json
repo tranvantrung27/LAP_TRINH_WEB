@@ -249,6 +249,88 @@
       ]
     },
     {
+      "Route": "images/tuoitho.jpg",
+      "AssetFile": "images/tuoitho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 09:42:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4="
+        }
+      ]
+    },
+    {
+      "Route": "images/tuoitho.k8smkyun6u.jpg",
+      "AssetFile": "images/tuoitho.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7861"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 09:42:54 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k8smkyun6u"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/tuoitho.jpg"
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "js/site.js",
       "Selectors": [],
