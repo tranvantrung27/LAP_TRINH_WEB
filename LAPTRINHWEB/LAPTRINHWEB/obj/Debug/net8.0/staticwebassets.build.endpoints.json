@@ -331,6 +331,88 @@
       ]
     },
     {
+      "Route": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.jpg",
+      "AssetFile": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:31:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw="
+        }
+      ]
+    },
+    {
+      "Route": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.s0tmjj4q0n.jpg",
+      "AssetFile": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:31:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0tmjj4q0n"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.jpg"
+        }
+      ]
+    },
+    {
       "Route": "images/books/7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg",
       "AssetFile": "images/books/7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg",
       "Selectors": [],
@@ -485,6 +567,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 25 May 2025 15:48:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E="
+        }
+      ]
+    },
+    {
+      "Route": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.dghoji1264.jpg",
+      "AssetFile": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:32:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dghoji1264"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E="
+        },
+        {
+          "Name": "label",
+          "Value": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg",
+      "AssetFile": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:32:44 GMT"
         }
       ],
       "EndpointProperties": [

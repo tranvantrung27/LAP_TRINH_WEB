@@ -1,0 +1,15 @@
+﻿@model UserProfileViewModel
+@{
+    ViewData["Title"] = "Hồ sơ cá nhân";
+}
+
+<h2>Hồ sơ cá nhân</h2>
+
+<div class="card" style="max-width: 500px;">
+    <div class="card-body">
+        <p><strong>Tên đăng nhập:</strong> @Model.Username</p>
+        <p><strong>Họ và tên:</strong> @Model.FullName</p>
+        <p><strong>Email:</strong> @Model.Email</p>
+        <p><strong>Điện thoại:</strong> @Model.Phone</p>
+    </div>
+</div>

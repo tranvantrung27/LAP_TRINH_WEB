@@ -86,7 +86,8 @@ namespace LAPTRINHWEB.Controllers
                         if (result == PasswordVerificationResult.Success)
                         {
                             HttpContext.Session.SetString("Username", user.Username);
-                            HttpContext.Session.SetString("Role", user.Username.ToLower() == "admin" ? "Admin" : "User");
+                            HttpContext.Session.SetString("Role", user.Role ?? "User");
+
                             TempData["SuccessMessage"] = $"Chào mừng {user.Username}!";
                             return RedirectToAction("Index", "Home");
                         }
@@ -96,8 +97,10 @@ namespace LAPTRINHWEB.Controllers
             }
             catch (Exception ex)
             {
+                Console.WriteLine("Lỗi đăng nhập: " + ex.Message); // 👈 LOG RA
                 ModelState.AddModelError("", "Có lỗi xảy ra trong quá trình đăng nhập.");
             }
+
             return View(model);
         }
 
@@ -123,5 +126,34 @@ namespace LAPTRINHWEB.Controllers
         {
             return !string.IsNullOrEmpty(HttpContext.Session.GetString("Username"));
         }
+        public IActionResult Profile()
+        {
+            var username = HttpContext.Session.GetString("Username");
+            var role = HttpContext.Session.GetString("Role");
+
+            if (string.IsNullOrEmpty(username))
+            {
+                return RedirectToAction("Login");
+            }
+
+            if (role == "Admin")
+            {
+                // Admin sẽ được chuyển tới trang quản lý user
+                return RedirectToAction("UserManagement", "Admin");
+            }
+            else
+            {
+                // User bình thường xem thông tin cá nhân
+                var model = new UserProfileViewModel
+                {
+                    Username = username,
+                    FullName = "Tên đầy đủ lấy từ DB",
+                    Email = "Email lấy từ DB",
+                    Phone = "Số điện thoại lấy từ DB"
+                };
+                return View(model);
+            }
+        }
+
     }
 }

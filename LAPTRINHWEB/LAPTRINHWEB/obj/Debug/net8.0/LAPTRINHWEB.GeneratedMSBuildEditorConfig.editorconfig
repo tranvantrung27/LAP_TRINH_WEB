@@ -32,12 +32,24 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Học Phần Lập Trình Web/code/LAP_TRINH_WEB/LAPTRINHWEB/LAPTRINHWEB/Views/Account/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Học Phần Lập Trình Web/code/LAP_TRINH_WEB/LAPTRINHWEB/LAPTRINHWEB/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Học Phần Lập Trình Web/code/LAP_TRINH_WEB/LAPTRINHWEB/LAPTRINHWEB/Views/Account/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Học Phần Lập Trình Web/code/LAP_TRINH_WEB/LAPTRINHWEB/LAPTRINHWEB/Views/Admin/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Học Phần Lập Trình Web/code/LAP_TRINH_WEB/LAPTRINHWEB/LAPTRINHWEB/Views/Admin/UserManagement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlck1hbmFnZW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Học Phần Lập Trình Web/code/LAP_TRINH_WEB/LAPTRINHWEB/LAPTRINHWEB/Views/Book/Admin.cshtml]

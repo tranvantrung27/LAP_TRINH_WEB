@@ -1,0 +1,267 @@
+﻿@model IEnumerable<LAPTRINHWEB.Models.User>
+
+@{
+    ViewData["Title"] = "Quản lý tài khoản";
+}
+
+<div class="container-fluid px-4">
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h1 class="h3 mb-0 text-gray-800">
+            <i class="fas fa-users me-2"></i>Quản lý tài khoản
+        </h1>
+    </div>
+
+    <!-- Thông báo -->
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <i class="fas fa-check-circle me-2"></i>@TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+    @if (TempData["Error"] != null)
+    {
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            <i class="fas fa-exclamation-circle me-2"></i>@TempData["Error"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+
+    <!-- Card Thêm tài khoản -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3 bg-primary text-white">
+            <h6 class="m-0 font-weight-bold">
+                <i class="fas fa-user-plus me-2"></i>Thêm tài khoản mới
+            </h6>
+        </div>
+        <div class="card-body">
+            <form id="userForm" asp-action="CreateUser" method="post" autocomplete="off">
+                @Html.AntiForgeryToken()
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Tài khoản <span class="text-danger">*</span></label>
+                        <input name="Username" class="form-control" placeholder="Nhập tài khoản đăng nhập" autocomplete="new-username" required />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Mật khẩu <span class="text-danger">*</span></label>
+                        <input type="password" name="Password" class="form-control" placeholder="Nhập mật khẩu" autocomplete="new-password" required />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Họ tên <span class="text-danger">*</span></label>
+                        <input name="FullName" class="form-control" placeholder="Nhập họ và tên đầy đủ" autocomplete="off" required />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Email</label>
+                        <input name="Email" type="email" class="form-control" placeholder="Nhập địa chỉ email" autocomplete="new-email" />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Số điện thoại</label>
+                        <input name="Phone" class="form-control" placeholder="Nhập số điện thoại" autocomplete="off" />
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label fw-bold">Quyền hạn <span class="text-danger">*</span></label>
+                        <select name="Role" class="form-select" autocomplete="off" required>
+                            <option value="nhanvien">👤 Nhân viên</option>
+                            <option value="quanly">👔 Quản lý</option>
+                            <option value="admin">⚡ Admin</option>
+                        </select>
+                    </div>
+                    <div class="col-12">
+                        <div class="d-flex justify-content-end gap-2 mt-3">
+                            <button type="reset" class="btn btn-secondary">
+                                <i class="fas fa-undo me-1"></i>Làm mới
+                            </button>
+                            <button type="submit" class="btn btn-success">
+                                <i class="fas fa-plus me-1"></i>Thêm tài khoản
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Card Danh sách tài khoản -->
+    <div class="card shadow">
+        <div class="card-header py-3 bg-info text-white">
+            <h6 class="m-0 font-weight-bold">
+                <i class="fas fa-list me-2"></i>Danh sách tài khoản
+                <span class="badge bg-light text-dark ms-2">@Model.Count() tài khoản</span>
+            </h6>
+        </div>
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover mb-0">
+                    <thead class="table-light">
+                        <tr>
+                            <th class="border-0 fw-bold">
+                                <i class="fas fa-user me-1"></i>Tài khoản
+                            </th>
+                            <th class="border-0 fw-bold">
+                                <i class="fas fa-id-card me-1"></i>Họ tên
+                            </th>
+                            <th class="border-0 fw-bold">
+                                <i class="fas fa-envelope me-1"></i>Email
+                            </th>
+                            <th class="border-0 fw-bold">
+                                <i class="fas fa-phone me-1"></i>Điện thoại
+                            </th>
+                            <th class="border-0 fw-bold">
+                                <i class="fas fa-shield-alt me-1"></i>Quyền
+                            </th>
+                            <th class="border-0 fw-bold text-center">
+                                <i class="fas fa-cogs me-1"></i>Thao tác
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Any())
+                        {
+                            @foreach (var u in Model)
+                            {
+                                <tr>
+                                    <td class="align-middle">
+                                        <strong>@u.Username</strong>
+                                    </td>
+                                    <td class="align-middle">@u.FullName</td>
+                                    <td class="align-middle">
+                                        @if (!string.IsNullOrEmpty(u.Email))
+                                        {
+                                            <a href="mailto:@u.Email" class="text-decoration-none">@u.Email</a>
+                                        }
+                                        else
+                                        {
+                                            <span class="text-muted">Chưa có</span>
+                                        }
+                                    </td>
+                                    <td class="align-middle">
+                                        @if (!string.IsNullOrEmpty(u.Phone))
+                                        {
+                                            <a href="tel:@u.Phone" class="text-decoration-none">@u.Phone</a>
+                                        }
+                                        else
+                                        {
+                                            <span class="text-muted">Chưa có</span>
+                                        }
+                                    </td>
+                                    <td class="align-middle">
+                                        @{
+                                            var badgeClass = u.Role.ToLower() switch
+                                            {
+                                                "admin" => "bg-danger",
+                                                "quanly" => "bg-warning text-dark",
+                                                _ => "bg-secondary"
+                                            };
+                                            var icon = u.Role.ToLower() switch
+                                            {
+                                                "admin" => "⚡",
+                                                "quanly" => "👔",
+                                                _ => "👤"
+                                            };
+                                        }
+                                        <span class="badge @badgeClass">
+                                            @icon @u.Role.ToUpper()
+                                        </span>
+                                    </td>
+                                    <td class="align-middle text-center">
+                                    <td class="align-middle text-center">
+                                        <div class="btn-group" role="group">
+                                            <a asp-controller="Admin" asp-action="EditUser" asp-route-id="@u.Id" class="btn btn-sm btn-outline-primary" title="Chỉnh sửa">
+                                                <i class="fas fa-edit"></i>
+                                            </a>
+
+                                            <form asp-controller="Admin" asp-action="DeleteUser" method="post"
+                                                  onsubmit="return confirm('Bạn có chắc muốn xóa tài khoản này không?');" style="display:inline;">
+                                                <input type="hidden" name="id" value="@u.Id" />
+                                                <button type="submit" class="btn btn-sm btn-outline-danger" title="Xóa">
+                                                    <i class="fas fa-trash"></i>
+                                                </button>
+                                            </form>
+
+                                        </div>
+                                    </td>
+
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="6" class="text-center py-4 text-muted">
+                                    <i class="fas fa-inbox fa-3x mb-3 d-block"></i>
+                                    <h5>Chưa có tài khoản nào</h5>
+                                    <p>Hãy thêm tài khoản mới ở phía trên</p>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Custom CSS -->
+<style>
+    .card {
+        border: none;
+        border-radius: 0.5rem;
+    }
+
+    .card-header {
+        border-radius: 0.5rem 0.5rem 0 0 !important;
+        border-bottom: none;
+    }
+
+    .table th {
+        font-size: 0.9rem;
+        padding: 1rem 0.75rem;
+    }
+
+    .table td {
+        padding: 0.75rem;
+        vertical-align: middle;
+    }
+
+    .btn-group .btn {
+        margin: 0 1px;
+    }
+
+    .form-label {
+        color: #374151;
+        font-size: 0.9rem;
+    }
+
+    .text-gray-800 {
+        color: #374151 !important;
+    }
+
+    .shadow {
+        box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+    }
+</style>
+
+<script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var form = document.getElementById('userForm');
+            if (form) {
+                // Reset form sau khi trang load
+                setTimeout(function() {
+                    // Reset từng input trừ trường Role
+                    var elements = form.querySelectorAll('input');
+                    elements.forEach(el => {
+                        if (el.type !== 'submit' && el.type !== 'button') {
+                            el.value = '';
+                        }
+                    });
+                    // Giữ nguyên Role ở giá trị đầu tiên (nhanvien)
+                    var roleSelect = form.querySelector('select[name="Role"]');
+                    if (roleSelect) {
+                        roleSelect.selectedIndex = 0;
+                    }
+                }, 100);
+            }
+        });
+    </scrip

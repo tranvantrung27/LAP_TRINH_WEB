@@ -56,5 +56,8 @@ app.MapControllerRoute(
     name: "student",
     pattern: "Student/{action=Index}/{id?}",
     defaults: new { controller = "Student" });
+app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

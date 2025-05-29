@@ -5,41 +5,36 @@ namespace LAPTRINHWEB.Models
 {
     public class User
     {
-        [Key]
         public int Id { get; set; }
-        [Required(ErrorMessage = "Tên người dùng không được để trống")]
-        [StringLength(50, MinimumLength = 3)]
-        public string Username { get; set; }
-
-        [Required(ErrorMessage = "Email không được để trống")]
-        [EmailAddress]
-        public string Email { get; set; }
 
         [Required]
-        public string PasswordHash { get; set; } = string.Empty; // Thêm giá trị mặc định
-        public string Role { get; set; } = "User";  
-        [NotMapped]
-        [Required(ErrorMessage = "Mật khẩu không được để trống")]
-        [StringLength(100, MinimumLength = 6, ErrorMessage = "Mật khẩu phải có ít nhất 6 ký tự")]
-        public string Password { get; set; }
+        [StringLength(50, MinimumLength = 3)]
+        public string Username { get; set; } = string.Empty;
 
-        [NotMapped]
-        [Compare("Password", ErrorMessage = "Mật khẩu xác nhận không khớp")]
-        public string ConfirmPassword { get; set; }
+        public string? FullName { get; set; }
+
+        [EmailAddress]
+        public string? Email { get; set; }
+
+        [Phone]
+        public string? Phone { get; set; }
+
+        public string Role { get; set; } = "User";
+
+        [Required]
+        public string PasswordHash { get; set; } = string.Empty;
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
-    }
 
+        // 👇 Không map 2 trường dưới vào DB
+        [NotMapped]
+        [Required(ErrorMessage = "Nhập mật khẩu")]
+        [StringLength(100, MinimumLength = 6)]
+        public string Password { get; set; } = string.Empty;
 
+        [NotMapped]
+        [Compare("Password", ErrorMessage = "Xác nhận không khớp")]
+        public string ConfirmPassword { get; set; } = string.Empty;
 
-
-
-    public class LoginModel
-    {
-        [Required(ErrorMessage = "Tên người dùng không được để trống")]
-        public string Username { get; set; }
-
-        [Required(ErrorMessage = "Mật khẩu không được để trống")]
-        public string Password { get; set; }
     }
 }

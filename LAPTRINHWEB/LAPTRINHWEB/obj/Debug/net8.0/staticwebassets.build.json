@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1fKyeBMReJ03Z16heTt6ytM7Frcx/d70PBeymKx/n7w=",
+  "Hash": "7Oqlbc/BsBMuwGvm5g2A4irlTwFyHdjMdBfL1juBISE=",
   "Source": "LAPTRINHWEB",
   "BasePath": "_content/LAPTRINHWEB",
   "Mode": "Default",
@@ -122,6 +122,27 @@
       "OriginalItemSpec": "wwwroot\\images\\books\\29e0d870-0cc2-4ecf-9490-1368f016ffd8_tuoitho.jpg"
     },
     {
+      "Identity": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\5ea9211a-1882-4749-a262-85038e21918d_java.jpg",
+      "SourceId": "LAPTRINHWEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\",
+      "BasePath": "_content/LAPTRINHWEB",
+      "RelativePath": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s0tmjj4q0n",
+      "Integrity": "bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\books\\5ea9211a-1882-4749-a262-85038e21918d_java.jpg"
+    },
+    {
       "Identity": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg",
       "SourceId": "LAPTRINHWEB",
       "SourceType": "Discovered",
@@ -162,6 +183,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\books\\a2cb9578-d3d0-4818-a5a7-ab954c0a10fb_ngu.jpg"
+    },
+    {
+      "Identity": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg",
+      "SourceId": "LAPTRINHWEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\",
+      "BasePath": "_content/LAPTRINHWEB",
+      "RelativePath": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dghoji1264",
+      "Integrity": "o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\books\\c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg"
     },
     {
       "Identity": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\cc8fe8b8-79e9-4a06-854d-2d813eda985d_java.jpg",
@@ -1735,6 +1777,88 @@
       ]
     },
     {
+      "Route": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.jpg",
+      "AssetFile": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\5ea9211a-1882-4749-a262-85038e21918d_java.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:31:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw="
+        }
+      ]
+    },
+    {
+      "Route": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.s0tmjj4q0n.jpg",
+      "AssetFile": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\5ea9211a-1882-4749-a262-85038e21918d_java.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8499"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:31:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s0tmjj4q0n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/books/5ea9211a-1882-4749-a262-85038e21918d_java.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw="
+        }
+      ]
+    },
+    {
       "Route": "images/books/7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg",
       "AssetFile": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg",
       "Selectors": [],
@@ -1885,6 +2009,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Sun, 25 May 2025 15:48:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E="
+        }
+      ]
+    },
+    {
+      "Route": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.dghoji1264.jpg",
+      "AssetFile": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:32:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dghoji1264"
+        },
+        {
+          "Name": "label",
+          "Value": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E="
+        }
+      ]
+    },
+    {
+      "Route": "images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg",
+      "AssetFile": "D:\\Học Phần Lập Trình Web\\code\\LAP_TRINH_WEB\\LAPTRINHWEB\\LAPTRINHWEB\\wwwroot\\images\\books\\c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 17:32:44 GMT"
         },
         {
           "Name": "Cache-Control",
