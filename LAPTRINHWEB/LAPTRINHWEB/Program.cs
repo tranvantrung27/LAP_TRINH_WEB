@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using LAPTRINHWEB.Data;
+
 using Microsoft.AspNetCore.Http.Features;
 using LAPTRINHWEB.Models;
 using Microsoft.AspNetCore.Identity;

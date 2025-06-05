@@ -36,185 +36,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\29e0d870-0cc2-4ecf-9490-1368f016ffd8_tuoitho.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7c651368-770f-4ae8-8960-fd2e3c3987db.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>LAPTRINHWEB</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/29e0d870-0cc2-4ecf-9490-1368f016ffd8_tuoitho.jpg</RelativePath>
+      <RelativePath>images/7c651368-770f-4ae8-8960-fd2e3c3987db.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k8smkyun6u</Fingerprint>
-      <Integrity>jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=</Integrity>
+      <Fingerprint>18k4ooosto</Fingerprint>
+      <Integrity>n8jgvgkfwzenSTfrA6WspwB6OlVWeKD8kOGChAEvZFE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\29e0d870-0cc2-4ecf-9490-1368f016ffd8_tuoitho.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\5ea9211a-1882-4749-a262-85038e21918d_java.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/5ea9211a-1882-4749-a262-85038e21918d_java.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s0tmjj4q0n</Fingerprint>
-      <Integrity>bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\5ea9211a-1882-4749-a262-85038e21918d_java.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k8smkyun6u</Fingerprint>
-      <Integrity>jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\7f7dac1a-a199-4119-b6cb-04569aceb465_tuoitho.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\a2cb9578-d3d0-4818-a5a7-ab954c0a10fb_ngu.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/a2cb9578-d3d0-4818-a5a7-ab954c0a10fb_ngu.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dghoji1264</Fingerprint>
-      <Integrity>o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\a2cb9578-d3d0-4818-a5a7-ab954c0a10fb_ngu.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dghoji1264</Fingerprint>
-      <Integrity>o4aWKTBOPXyVqrzPHrx2yDnCATyfjpJjuqwRsY6396E=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\c9488048-c450-47a3-9b64-5130c1d99594_ngu.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\cc8fe8b8-79e9-4a06-854d-2d813eda985d_java.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/cc8fe8b8-79e9-4a06-854d-2d813eda985d_java.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s0tmjj4q0n</Fingerprint>
-      <Integrity>bBsc/nfO+/QqgLBeEcR0VM5Abp4JOyO/Wd2A4nf6rKw=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\cc8fe8b8-79e9-4a06-854d-2d813eda985d_java.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\ce28bc6d-9944-4e62-a047-5428e6bd72f1_sach ngon ngu c sharp.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/ce28bc6d-9944-4e62-a047-5428e6bd72f1_sach ngon ngu c sharp.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>w2l93sa18v</Fingerprint>
-      <Integrity>+IWGYE+MX11M8EAELQVDFcDbTtmA6QXLsqkPsy6B0qA=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\ce28bc6d-9944-4e62-a047-5428e6bd72f1_sach ngon ngu c sharp.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\efd79c90-4021-46e5-b11b-daa1105ccafd_tuoitho.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/efd79c90-4021-46e5-b11b-daa1105ccafd_tuoitho.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k8smkyun6u</Fingerprint>
-      <Integrity>jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\efd79c90-4021-46e5-b11b-daa1105ccafd_tuoitho.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\fddd4092-14a3-4068-95e5-020105ba10d8_sach ngon ngu c sharp.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/fddd4092-14a3-4068-95e5-020105ba10d8_sach ngon ngu c sharp.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>w2l93sa18v</Fingerprint>
-      <Integrity>+IWGYE+MX11M8EAELQVDFcDbTtmA6QXLsqkPsy6B0qA=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\fddd4092-14a3-4068-95e5-020105ba10d8_sach ngon ngu c sharp.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\tuoitho.jpg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>LAPTRINHWEB</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/LAPTRINHWEB</BasePath>
-      <RelativePath>images/books/tuoitho.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k8smkyun6u</Fingerprint>
-      <Integrity>jMsby0S1QdnLB2dRGhOlWPtmEJDpfGyUID4qk+zE9V4=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\books\tuoitho.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\7c651368-770f-4ae8-8960-fd2e3c3987db.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
@@ -264,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mpyigms19s</Fingerprint>
-      <Integrity>xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=</Integrity>
+      <Fingerprint>mkzakt0t15</Fingerprint>
+      <Integrity>asVAhO7zMMfk6aIGx0nKsbBQzym8KEdjhUEp8jXNxT8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css'))</OriginalItemSpec>

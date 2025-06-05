@@ -1,4 +1,4 @@
-﻿using LAPTRINHWEB.Data;
+﻿
 using LAPTRINHWEB.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;

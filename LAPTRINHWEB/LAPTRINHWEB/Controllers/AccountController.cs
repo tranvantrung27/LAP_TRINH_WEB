@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using LAPTRINHWEB.Models;
-using LAPTRINHWEB.Data;
+
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore; // Thêm dòng này để dùng FirstOrDefaultAsync, AnyAsync
 

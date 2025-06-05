@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Database Connection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .info {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            padding: 10px;
+            margin: 10px 0;
+        }
+
+        .error {
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+            padding: 10px;
+            margin: 10px 0;
+        }
+
+        .debug {
+            background: #e2e3e5;
+            border: 1px solid #d6d8db;
+            padding: 10px;
+            margin: 10px 0;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test Database Connection</h1>
+
+    @if (ViewBag.Message != null)
+    {
+        <div class="@(ViewBag.Message.Contains("Lỗi") ? "error" : "info")">
+            <strong>Kết quả:</strong> @ViewBag.Message
+        </div>
+    }
+
+    @if (ViewBag.NganhCount != null)
+    {
+        <div class="info">
+            <strong>Số ngành học:</strong> @ViewBag.NganhCount
+        </div>
+    }
+
+    <div class="debug">
+        <h3>Các bước kiểm tra:</h3>
+        <ol>
+            <li>Kiểm tra connection string trong appsettings.json</li>
+            <li>Đảm bảo database "Thuvien" đã được tạo</li>
+            <li>Chạy lại SQL script để tạo tables và insert dữ liệu mẫu</li>
+            <li>Kiểm tra tên bảng trong database khớp với DbContext</li>
+        </ol>
+    </div>
+
+    <h3>Thử thêm sinh viên test:</h3>
+    <form action="/Student/Create" method="post" enctype="multipart/form-data">
+        <div style="margin: 10px 0;">
+            <label>Mã SV:</label>
+            <input type="text" name="MaSV" value="TEST123456" required />
+        </div>
+        <div style="margin: 10px 0;">
+            <label>Họ tên:</label>
+            <input type="text" name="HoTen" value="Nguyễn Test" required />
+        </div>
+        <div style="margin: 10px 0;">
+            <label>Giới tính:</label>
+            <select name="GioiTinh">
+                <option value="Nam">Nam</option>
+                <option value="Nữ">Nữ</option>
+            </select>
+        </div>
+        <div style="margin: 10px 0;">
+            <label>Ngày sinh:</label>
+            <input type="date" name="NgaySinh" value="2000-01-01" />
+        </div>
+        <div style="margin: 10px 0;">
+            <label>Mã ngành:</label>
+            <select name="MaNganh" required>
+                <option value="">-- Chọn ngành --</option>
+                <option value="CNTT">CNTT</option>
+                <option value="QTKD">QTKD</option>
+            </select>
+        </div>
+        <div style="margin: 10px 0;">
+            <label>Hình:</label>
+            <input type="file" name="Hinh" accept="image/*" />
+        </div>
+        <button type="submit">Thêm sinh viên test</button>
+        @Html.AntiForgeryToken()
+    </form>
+
+    <div style="margin-top: 20px;">
+        <a href="/Student">← Quay lại danh sách sinh viên</a>
+    </div>
+</body>
+</html>

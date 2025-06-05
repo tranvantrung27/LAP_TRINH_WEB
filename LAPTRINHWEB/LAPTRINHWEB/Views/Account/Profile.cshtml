@@ -3,13 +3,499 @@
     ViewData["Title"] = "Hồ sơ cá nhân";
 }
 
-<h2>Hồ sơ cá nhân</h2>
+<style>
+    body {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 20px 0;
+    }
 
-<div class="card" style="max-width: 500px;">
-    <div class="card-body">
-        <p><strong>Tên đăng nhập:</strong> @Model.Username</p>
-        <p><strong>Họ và tên:</strong> @Model.FullName</p>
-        <p><strong>Email:</strong> @Model.Email</p>
-        <p><strong>Điện thoại:</strong> @Model.Phone</p>
+    .profile-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .profile-header {
+        text-align: center;
+        margin-bottom: 30px;
+        animation: fadeInDown 0.8s ease-out;
+    }
+
+    .profile-title {
+        color: white;
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 10px;
+        text-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    }
+
+    .profile-subtitle {
+        color: rgba(255,255,255,0.8);
+        font-size: 1.1rem;
+        font-weight: 300;
+    }
+
+    .profile-card {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(15px);
+        border-radius: 25px;
+        box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        animation: fadeInUp 0.8s ease-out;
+    }
+
+        .profile-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 30px 60px rgba(0, 0, 0, 0.2);
+        }
+
+    .profile-cover {
+        height: 120px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        position: relative;
+        overflow: hidden;
+    }
+
+        .profile-cover::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+            animation: shimmer 4s infinite linear;
+        }
+
+    @@keyframes shimmer {
+        0%
+
+    {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+
+    }
+
+    .profile-avatar {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        border: 5px solid white;
+        position: absolute;
+        left: 50%;
+        bottom: -60px;
+        transform: translateX(-50%);
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3rem;
+        color: white;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        transition: transform 0.3s ease;
+    }
+
+        .profile-avatar:hover {
+            transform: translateX(-50%) scale(1.05);
+        }
+
+    .profile-body {
+        padding: 80px 40px 40px;
+        text-align: center;
+    }
+
+    .profile-name {
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .profile-username {
+        color: #667eea;
+        font-size: 1.1rem;
+        font-weight: 500;
+        margin-bottom: 30px;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .profile-info {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 25px;
+        margin-top: 30px;
+    }
+
+    .info-item {
+        background: #f8f9fa;
+        border-radius: 15px;
+        padding: 20px;
+        transition: all 0.3s ease;
+        border: 2px solid transparent;
+        position: relative;
+        overflow: hidden;
+    }
+
+        .info-item::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        .info-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.15);
+            background: white;
+        }
+
+            .info-item:hover::before {
+                transform: scaleX(1);
+            }
+
+    .info-label {
+        font-size: 0.9rem;
+        color: #667eea;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 8px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .info-value {
+        font-size: 1.1rem;
+        color: #333;
+        font-weight: 500;
+        word-break: break-word;
+    }
+
+    .info-icon {
+        font-size: 1rem;
+        color: #667eea;
+    }
+
+    .profile-actions {
+        margin-top: 30px;
+        display: flex;
+        gap: 15px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .btn-gradient {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border: none;
+        border-radius: 25px;
+        padding: 12px 30px;
+        color: white;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+        .btn-gradient:hover {
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+            text-decoration: none;
+        }
+
+        .btn-gradient::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: left 0.5s;
+        }
+
+        .btn-gradient:hover::before {
+            left: 100%;
+        }
+
+    .btn-outline {
+        background: transparent;
+        border: 2px solid #667eea;
+        border-radius: 25px;
+        padding: 10px 30px;
+        color: #667eea;
+        font-weight: 600;
+        text-decoration: none;
+        transition: all 0.3s ease;
+    }
+
+        .btn-outline:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+            text-decoration: none;
+        }
+
+    .stats-section {
+        margin-top: 40px;
+        padding-top: 30px;
+        border-top: 1px solid #e9ecef;
+    }
+
+    .stats-grid {
+        display: flex;
+        justify-content: space-around;
+        gap: 20px;
+    }
+
+    .stat-item {
+        text-align: center;
+        flex: 1;
+    }
+
+    .stat-number {
+        font-size: 2rem;
+        font-weight: 700;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+
+    .stat-label {
+        font-size: 0.9rem;
+        color: #6c757d;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-top: 5px;
+    }
+
+    @@media (max-width: 768px) {
+        .profile-container
+
+    {
+        padding: 10px;
+    }
+
+    .profile-body {
+        padding: 80px 20px 30px;
+    }
+
+    .profile-info {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .profile-actions {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .stats-grid {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .profile-title {
+        font-size: 2rem;
+    }
+
+    }
+
+    @@keyframes fadeInDown {
+        from
+
+    {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    }
+
+    @@keyframes fadeInUp {
+        from
+
+    {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    }
+</style>
+
+<div class="profile-container">
+    <div class="profile-header">
+        <h1 class="profile-title">
+            <i class="fas fa-user-circle me-3"></i>
+            Hồ sơ cá nhân
+        </h1>
+        <p class="profile-subtitle">Thông tin chi tiết về tài khoản của bạn</p>
+    </div>
+
+    <div class="profile-card">
+        <div class="profile-cover">
+            <div class="profile-avatar">
+                <i class="fas fa-user"></i>
+            </div>
+        </div>
+
+        <div class="profile-body">
+            <h2 class="profile-name">@Model.FullName</h2>
+            <p class="profile-username">@@@Model.Username</p>
+
+            <div class="profile-info">
+                <div class="info-item">
+                    <div class="info-label">
+                        <i class="fas fa-envelope info-icon"></i>
+                        Email
+                    </div>
+                    <div class="info-value">@Model.Email</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">
+                        <i class="fas fa-phone info-icon"></i>
+                        Điện thoại
+                    </div>
+                    <div class="info-value">@(string.IsNullOrEmpty(Model.Phone) ? "Chưa cập nhật" : Model.Phone)</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">
+                        <i class="fas fa-user-tag info-icon"></i>
+                        Tên đăng nhập
+                    </div>
+                    <div class="info-value">@Model.Username</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="info-label">
+                        <i class="fas fa-calendar-alt info-icon"></i>
+                        Ngày tham gia
+                    </div>
+                    <div class="info-value">@DateTime.Now.ToString("dd/MM/yyyy")</div>
+                </div>
+            </div>
+
+            <div class="profile-actions">
+                <a href="#" class="btn-gradient">
+                    <i class="fas fa-edit me-2"></i>
+                    Chỉnh sửa hồ sơ
+                </a>
+                <a href="#" class="btn-outline">
+                    <i class="fas fa-key me-2"></i>
+                    Đổi mật khẩu
+                </a>
+            </div>
+
+            <div class="stats-section">
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-number">15</div>
+                        <div class="stat-label">Bài viết</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">42</div>
+                        <div class="stat-label">Điểm tích lũy</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">7</div>
+                        <div class="stat-label">Hoạt động</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+
+<script>
+    // Animation on scroll
+    const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -50px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.style.opacity = '1';
+                entry.target.style.transform = 'translateY(0)';
+            }
+        });
+    }, observerOptions);
+
+    // Observe all info items
+    document.querySelectorAll('.info-item').forEach(item => {
+        item.style.opacity = '0';
+        item.style.transform = 'translateY(20px)';
+        item.style.transition = 'all 0.6s ease';
+        observer.observe(item);
+    });
+
+    // Avatar click effect
+    document.querySelector('.profile-avatar').addEventListener('click', function() {
+        this.style.transform = 'translateX(-50%) rotate(360deg) scale(1.1)';
+        setTimeout(() => {
+            this.style.transform = 'translateX(-50%) scale(1)';
+        }, 500);
+    });
+
+    // Info item hover effects
+    document.querySelectorAll('.info-item').forEach(item => {
+        item.addEventListener('mouseenter', function() {
+            this.style.borderColor = '#667eea';
+        });
+
+        item.addEventListener('mouseleave', function() {
+            this.style.borderColor = 'transparent';
+        });
+    });
+
+    // Animate stats on load
+    setTimeout(() => {
+        document.querySelectorAll('.stat-number').forEach(stat => {
+            const finalValue = parseInt(stat.textContent);
+            let currentValue = 0;
+            const increment = finalValue / 30;
+
+            const timer = setInterval(() => {
+                currentValue += increment;
+                if (currentValue >= finalValue) {
+                    stat.textContent = finalValue;
+                    clearInterval(timer);
+                } else {
+                    stat.textContent = Math.floor(currentValue);
+                }
+            }, 50);
+        });
+    }, 1000);
+</script>

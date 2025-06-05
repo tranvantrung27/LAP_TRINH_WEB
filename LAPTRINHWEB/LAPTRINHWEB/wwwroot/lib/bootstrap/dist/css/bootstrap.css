@@ -4017,6 +4017,7 @@ textarea.form-control-lg {
 }
 
 .navbar-toggler {
+
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
@@ -4026,9 +4027,10 @@ textarea.form-control-lg {
   transition: box-shadow 0.15s ease-in-out;
 }
 @media (prefers-reduced-motion: reduce) {
-  .navbar-toggler {
-    transition: none;
-  }
+    .navbar-toggler {
+        transition: none;
+
+    }
 }
 .navbar-toggler:hover {
   text-decoration: none;
@@ -4047,6 +4049,7 @@ textarea.form-control-lg {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
+
 }
 
 .navbar-nav-scroll {
