@@ -1,0 +1,280 @@
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\appsettings.Development.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\appsettings.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Bai6.staticwebassets.endpoints.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Bai6.exe
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Bai6.deps.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Bai6.runtimeconfig.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Bai6.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Bai6.pdb
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Azure.Core.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Azure.Identity.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Humanizer.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.CodeDom.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.csproj.AssemblyReference.cache
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfoInputs.cache
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfo.cs
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.csproj.CoreCompileInputs.cache
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.MvcApplicationPartsAssemblyInfo.cs
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.MvcApplicationPartsAssemblyInfo.cache
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\scopedcss\bundle\Bai6.styles.css
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.build.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.development.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.Bai6.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.Bai6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.build.Bai6.props
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bai6.props
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bai6.props
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.csproj.Up2Date
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\refint\Bai6.dll
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.pdb
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\Bai6.genruntimeconfig.cache
+E:\Thực Hành Lập Trình Web\Bai6API\Bai6\obj\Debug\net8.0\ref\Bai6.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\appsettings.Development.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\appsettings.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Bai6.staticwebassets.endpoints.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Bai6.exe
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Bai6.deps.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Bai6.runtimeconfig.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Bai6.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Bai6.pdb
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Azure.Core.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Azure.Identity.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Humanizer.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.CodeDom.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Memory.Data.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.csproj.AssemblyReference.cache
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfoInputs.cache
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfo.cs
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.csproj.CoreCompileInputs.cache
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.MvcApplicationPartsAssemblyInfo.cs
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.MvcApplicationPartsAssemblyInfo.cache
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\scopedcss\bundle\Bai6.styles.css
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.build.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.development.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.Bai6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.Bai6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.build.Bai6.props
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bai6.props
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bai6.props
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.csproj.Up2Date
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\refint\Bai6.dll
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.pdb
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\Bai6.genruntimeconfig.cache
+C:\LTWEB\Bai6API\Bai6API\Bai6\obj\Debug\net8.0\ref\Bai6.dll

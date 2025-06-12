@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LTWEB\\Bai6API\\Bai6API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|c:\\ltweb\\bai6api\\bai6api\\bai6\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|solutionrelative:bai6\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|c:\\ltweb\\bai6api\\bai6api\\bai6\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|solutionrelative:bai6\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|c:\\ltweb\\bai6api\\bai6api\\bai6\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|solutionrelative:bai6\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|c:\\ltweb\\bai6api\\bai6api\\bai6\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|solutionrelative:bai6\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|c:\\ltweb\\bai6api\\bai6api\\bai6\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|solutionrelative:bai6\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLS\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLS\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QLS\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|c:\\ltweb\\bai6api\\bai6api\\bai6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|solutionrelative:bai6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|c:\\ltweb\\bai6api\\bai6api\\bai6\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DA3FB5-D784-4A4F-90AE-9F444B7236A1}|Bai6\\Bai6.csproj|solutionrelative:bai6\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\style.css",
+              "RelativeDocumentMoniker": "QLS\\style.css",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\style.css",
+              "RelativeToolTip": "QLS\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T15:50:56.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\js\\main.js",
+              "RelativeDocumentMoniker": "QLS\\js\\main.js",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\js\\main.js",
+              "RelativeToolTip": "QLS\\js\\main.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T15:42:22.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\appsettings.json",
+              "RelativeDocumentMoniker": "Bai6\\appsettings.json",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\appsettings.json",
+              "RelativeToolTip": "Bai6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T15:28:15.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Bai6\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Bai6\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:26:59.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "Bai6\\Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "Bai6\\Controllers\\ProductApiController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:25:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bai6\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bai6\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:25:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Bai6\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Bai6\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:23:33.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Bai6\\Model\\Product.cs",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Model\\Product.cs",
+              "RelativeToolTip": "Bai6\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:23:17.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\index.html",
+              "RelativeDocumentMoniker": "QLS\\index.html",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\QLS\\index.html",
+              "RelativeToolTip": "QLS\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-30T15:50:59.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Bai6\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\LTWEB\\Bai6API\\Bai6API\\Bai6\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Bai6\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:18:44.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

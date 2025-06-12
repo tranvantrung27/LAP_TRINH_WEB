@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APibuoi8.props" />
+</Project>
